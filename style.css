@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #f4f4f4;
+}
+
+.header {
+    text-align: center;
+    padding: 10px;
+    padding-top: 20px;
+    background-color: #111;
+    color:#FFC600;
+}
+
+h1 {
+    padding-top: 0;
+    margin-top: 0;
+    font-size: 4rem;
+}
+
+.img {
+    background-image: url(./images/js-road.jpg);
+    /*<span>Photo by <a href="https://unsplash.com/@haydenwalker?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hayden Walker</a> on <a href="https://unsplash.com/s/photos/road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*/
+    min-height: 100%;
+    position: relative;
+    /* opacity: 0.7; */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.boxes {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 77vw;
+    margin: auto;
+    padding: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200;
+    height: 40vh;
+    /* border: 2px solid red; */
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    color: #111;
+    font-size: 1rem;
+    margin: 30px;
+    
+}
+
+#boximg {
+    height: 200px;
+    width: 300px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+}
