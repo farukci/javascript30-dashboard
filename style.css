@@ -66,5 +66,18 @@ h1 {
 
 .links {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
+
+#repolink, #livelink {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #111;
+}
+
+a:link {
+    text-decoration: none;
+}
+

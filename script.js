@@ -24,15 +24,15 @@ window.onload = function() {
 
 function display() {
     const parentDiv = document.querySelector(".boxes");
-    let projectBox = null;
+    // let projectBox = null;
 
-    projectBox = JS30Data.map(item => `
+    const projectBox = JS30Data.map(item => `
     <div class="box">
         <img id="boximg" src=${item.imgURL} alt=${item.title} />
         <h2>${item.title}</h2>
         <div class="links">
-            <a href=${item.repoURL} target="blank"><img src="./images/github-icon.png" alt="github-icon" height="50"></a>
-            <a href=${item.liveURL} target="blank"><img src="./images/web-icon.png" alt="web-icon" height="50"></a>
+            <a href=${item.repoURL} target="blank"><img src="./images/github-icon.png" alt="github-icon" height="50"><p id="repolink">Repo</p></a>
+            <a href=${item.liveURL} target="blank"><img src="./images/web-icon.png" alt="web-icon" height="50"><p id="livelink">Live</p></a>
         </div>
     </div>
     ` );    
