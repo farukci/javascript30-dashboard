@@ -24,7 +24,6 @@ window.onload = function() {
 
 function display() {
     const parentDiv = document.querySelector(".boxes");
-    // let projectBox = null;
 
     const projectBox = JS30Data.map(item => `
     <div class="box">
