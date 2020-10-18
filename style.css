@@ -48,7 +48,7 @@ h1 {
 
 .box {
     width: 200;
-    height: 35vh;
+    height: 40vh;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -59,7 +59,7 @@ h1 {
 }
 
 #boximg {
-    height: 18vh;
+    height: 20vh;
     width: 15vw;
     resize: contain;
 }
