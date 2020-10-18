@@ -22,12 +22,11 @@ h1 {
     font-size: 4rem;
 }
 
-.img {
+.container {
     background: url(./images/js-road.jpg), rgba(255, 255, 255, 0.3);
     background-blend-mode: lighten;
     min-height: 100%;
     position: relative;
-    /* opacity: 0.7; */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,11 +37,11 @@ h1 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    width: 77vw;
+    width: 75vw;
     margin: auto;
     padding: 100px;
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: capitalize; */
     color: #ffffff;
     flex-wrap: wrap;
 }
@@ -50,7 +49,6 @@ h1 {
 .box {
     width: 200;
     height: 40vh;
-    /* border: 2px solid red; */
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -61,8 +59,9 @@ h1 {
 }
 
 #boximg {
-    height: 200px;
-    width: 300px;
+    height: 22vh;
+    width: 15vw;
+    resize: contain;
 }
 
 .links {

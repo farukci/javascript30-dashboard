@@ -14,7 +14,7 @@ const JS30Data = [
         imgURL: "./images/js-and-css-clock.png",
         repoURL: "https://github.com/farukci/JS30-02-JS-and-CSS-Clock",
         liveURL: "https://farukci.github.io/JS30-02-JS-and-CSS-Clock/"
-    }
+    },
 ]
 
 
