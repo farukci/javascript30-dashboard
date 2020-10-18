@@ -23,8 +23,8 @@ h1 {
 }
 
 .img {
-    background-image: url(./images/js-road.jpg);
-    /*<span>Photo by <a href="https://unsplash.com/@haydenwalker?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hayden Walker</a> on <a href="https://unsplash.com/s/photos/road?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*/
+    background: url(./images/js-road.jpg), rgba(255, 255, 255, 0.3);
+    background-blend-mode: lighten;
     min-height: 100%;
     position: relative;
     /* opacity: 0.7; */
