@@ -28,6 +28,7 @@ function display() {
     const projectBox = JS30Data.map(item => `
     <div class="box">
         <img id="boximg" src=${item.imgURL} alt=${item.title} />
+        <div class="top-left">Day ${item.id + 1}</div>
         <h2>${item.title}</h2>
         <div class="links">
             <a href=${item.repoURL} target="blank"><img src="./images/github-icon.png" alt="github-icon" height="50"><p id="repolink">Repo</p></a>
