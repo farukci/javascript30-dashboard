@@ -15,6 +15,13 @@ const JS30Data = [
         repoURL: "https://github.com/farukci/JS30-02-JS-and-CSS-Clock",
         liveURL: "https://farukci.github.io/JS30-02-JS-and-CSS-Clock/"
     },
+    {
+        id: 2,
+        title: "CSS Variables and JS",
+        imgURL: "./images/css-variables.png",
+        repoURL: "https://github.com/farukci/JS30-03-CSS-Variables",
+        liveURL: "https://farukci.github.io/JS30-03-CSS-Variables/"
+    },
 ]
 
 
