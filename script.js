@@ -5,8 +5,8 @@ const JS30Data = [
         id: 0,
         title: "JavaScript Drum Kit",
         imgURL: "./images/js-drum-kit.png",
-        repoURL: "https://github.com/farukci/JS30-01-JavaScript-Drum-Kit",
-        liveURL: "https://farukci.github.io/JS30-01-JavaScript-Drum-Kit/"
+        repoURL: "https://github.com/ferruhcihan/JS30-01-JavaScript-Drum-Kit",
+        liveURL: "https://ferruhcihan.github.io/JS30-01-JavaScript-Drum-Kit/"
     },
     // {
     //     id: 1,
