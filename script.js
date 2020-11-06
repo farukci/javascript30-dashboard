@@ -19,8 +19,8 @@ const JS30Data = [
     //     id: 2,
     //     title: "CSS Variables and JS",
     //     imgURL: "./images/css-variables.png",
-    //     repoURL: "https://github.com/farukci/JS30-03-CSS-Variables",
-    //     liveURL: "https://farukci.github.io/JS30-03-CSS-Variables/"
+    //     repoURL: "https://github.com/ferruhcihan/JS30-03-CSS-Variables",
+    //     liveURL: "https://ferruhcihan.github.io/JS30-03-CSS-Variables/"
     // },
 ]
 
