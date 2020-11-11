@@ -22,13 +22,13 @@ const JS30Data = [
         repoURL: "https://github.com/ferruhcihan/JS30-03-CSS-Variables",
         liveURL: "https://ferruhcihan.github.io/JS30-03-CSS-Variables/"
     },
-    {
-        id: 3,
-        title: "Array Cardio Day 1",
-        imgURL: "./images/css-variables.png",
-        repoURL: "https://github.com/ferruhcihan/JS30-03-CSS-Variables",
-        liveURL: "https://ferruhcihan.github.io/JS30-03-CSS-Variables/"
-    },
+    // {
+    //     id: 3,
+    //     title: "Array Cardio Day 1",
+    //     imgURL: "./images/css-variables.png",
+    //     repoURL: "https://github.com/ferruhcihan/JS30-03-CSS-Variables",
+    //     liveURL: "https://ferruhcihan.github.io/JS30-03-CSS-Variables/"
+    // },
     
 ]
 
