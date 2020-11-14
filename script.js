@@ -31,7 +31,7 @@ const JS30Data = [
     // },
     // {
     //     id: 4,
-    //     title: "Array Cardio Day 1",
+    //     title: "Flex Panel Gallery",
     //     imgURL: "./images/css-variables.png",
     //     repoURL: "https://github.com/ferruhcihan/JS30-05-Flex-Panel-Gallery",
     //     liveURL: "https://ferruhcihan.github.io/JS30-05-Flex-Panel-Gallery/"
