@@ -22,20 +22,21 @@ const JS30Data = [
         repoURL: "https://github.com/ferruhcihan/JS30-03-CSS-Variables",
         liveURL: "https://ferruhcihan.github.io/JS30-03-CSS-Variables/"
     },
-    // {
+    {
     //     id: 3,
     //     title: "Flex Panel Gallery",
-    //     imgURL: "./images/flex-panel-gallery.png",
+    //     imgURL: "./images/css-variables.png",
     //     repoURL: "https://github.com/ferruhcihan/JS30-04-Array-Cardio-Day-1",
     //     liveURL: "https://ferruhcihan.github.io/JS30-04-Array-Cardio-Day-1/"
     // },
     // {
     //     id: 4,
     //     title: "Flex Panel Gallery",
-    //     imgURL: "./images/css-variables.png",
+    //     imgURL: "./images/flex-panel-gallery.png",
     //     repoURL: "https://github.com/ferruhcihan/JS30-05-Flex-Panel-Gallery",
     //     liveURL: "https://ferruhcihan.github.io/JS30-05-Flex-Panel-Gallery/"
     // },
+    // 
     
 ]
 
