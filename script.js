@@ -25,7 +25,7 @@ const JS30Data = [
     {
         id: 3,
         title: "Array Cardio Day 1",
-        imgURL: "./images/css-variables.png",
+        imgURL: "./images/array-cardio-day-1.png",
         repoURL: "https://github.com/ferruhcihan/JS30-04-Array-Cardio-Day-1",
         liveURL: "https://ferruhcihan.github.io/JS30-04-Array-Cardio-Day-1/"
     },
