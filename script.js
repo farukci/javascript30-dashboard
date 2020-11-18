@@ -24,7 +24,7 @@ const JS30Data = [
     },
     {
         id: 3,
-        title: "Flex Panel Gallery",
+        title: "Array Cardio Day 1",
         imgURL: "./images/css-variables.png",
         repoURL: "https://github.com/ferruhcihan/JS30-04-Array-Cardio-Day-1",
         liveURL: "https://ferruhcihan.github.io/JS30-04-Array-Cardio-Day-1/"
