@@ -36,6 +36,13 @@ const JS30Data = [
         repoURL: "https://github.com/ferruhcihan/JS30-05-Flex-Panel-Gallery",
         liveURL: "https://ferruhcihan.github.io/JS30-05-Flex-Panel-Gallery/"
     },
+    {
+        id: 5,
+        title: "Type Ahead",
+        imgURL: "./images/type-ahead.png",
+        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
+        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+    },
 ]
 
 
