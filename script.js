@@ -5,36 +5,36 @@ const JS30Data = [
         id: 0,
         title: "JavaScript Drum Kit",
         imgURL: "./images/js-drum-kit.png",
-        repoURL: "https://github.com/ferruhcihan/JS30-01-JavaScript-Drum-Kit",
-        liveURL: "https://ferruhcihan.github.io/JS30-01-JavaScript-Drum-Kit/"
+        repoURL: "https://github.com/frcihan/JS30-01-JavaScript-Drum-Kit",
+        liveURL: "https://frcihan.github.io/JS30-01-JavaScript-Drum-Kit/"
     },
     {
         id: 1,
         title: "JS and CSS Clock",
         imgURL: "./images/js-and-css-clock.png",
-        repoURL: "https://github.com/ferruhcihan/JS30-02-JS-and-CSS-Clock",
-        liveURL: "https://ferruhcihan.github.io/JS30-02-JS-and-CSS-Clock/"
+        repoURL: "https://github.com/frcihan/JS30-02-JS-and-CSS-Clock",
+        liveURL: "https://frcihan.github.io/JS30-02-JS-and-CSS-Clock/"
     },
     {
         id: 2,
         title: "CSS Variables and JS",
         imgURL: "./images/css-variables.png",
-        repoURL: "https://github.com/ferruhcihan/JS30-03-CSS-Variables",
-        liveURL: "https://ferruhcihan.github.io/JS30-03-CSS-Variables/"
+        repoURL: "https://github.com/frcihan/JS30-03-CSS-Variables",
+        liveURL: "https://frcihan.github.io/JS30-03-CSS-Variables/"
     },
     {
         id: 3,
         title: "Array Cardio Day 1",
         imgURL: "./images/array-cardio-day-1.png",
-        repoURL: "https://github.com/ferruhcihan/JS30-04-Array-Cardio-Day-1",
-        liveURL: "https://ferruhcihan.github.io/JS30-04-Array-Cardio-Day-1/"
+        repoURL: "https://github.com/frcihan/JS30-04-Array-Cardio-Day-1",
+        liveURL: "https://frcihan.github.io/JS30-04-Array-Cardio-Day-1/"
     },
     {
         id: 4,
         title: "Flex Panel Gallery",
         imgURL: "./images/flex-panel-gallery.png",
-        repoURL: "https://github.com/ferruhcihan/JS30-05-Flex-Panel-Gallery",
-        liveURL: "https://ferruhcihan.github.io/JS30-05-Flex-Panel-Gallery/"
+        repoURL: "https://github.com/frcihan/JS30-05-Flex-Panel-Gallery",
+        liveURL: "https://frcihan.github.io/JS30-05-Flex-Panel-Gallery/"
     },
     {
         id: 5,
