@@ -46,7 +46,7 @@ const JS30Data = [
     {
         id: 6,
         title: "HTML5 Canvas",
-        imgURL: "./images/type-ahead.png",
+        imgURL: "./images/html5-canvas.png",
         repoURL: "https://github.com/frcihan/JS30-08-Fun-With-HTML5-Canvas",
         liveURL: "https://frcihan.github.io/JS30-08-Fun-With-HTML5-Canvas/"
     },
