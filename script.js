@@ -45,25 +45,32 @@ const JS30Data = [
     },
     {
         id: 6,
-        title: "HTML5 Canvas",
-        imgURL: "./images/html5-canvas.png",
-        repoURL: "https://github.com/frcihan/JS30-08-Fun-With-HTML5-Canvas",
-        liveURL: "https://frcihan.github.io/JS30-08-Fun-With-HTML5-Canvas/"
+        title: "Array Cardio Day 2",
+        imgURL: "./images/array-cardio-day-1.png",
+        repoURL: "https://github.com/frcihan/JS30-04-Array-Cardio-Day-2",
+        liveURL: "https://frcihan.github.io/JS30-04-Array-Cardio-Day-2/"
     },
-    // {
-    //     id: 7,
-    //     title: "Type Ahead",
-    //     imgURL: "./images/type-ahead.png",
-    //     repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
-    //     liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
-    // },
-    // {
-    //     id: 8,
-    //     title: "Type Ahead",
-    //     imgURL: "./images/type-ahead.png",
-    //     repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
-    //     liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
-    // },
+    {
+        id: 7,
+        title: "Type Ahead",
+        imgURL: "./images/type-ahead.png",
+        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
+        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+    },
+    {
+        id: 8,
+        title: "Type Ahead",
+        imgURL: "./images/type-ahead.png",
+        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
+        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+    },
+    {
+        id: 9,
+        title: "Type Ahead",
+        imgURL: "./images/type-ahead.png",
+        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
+        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+    },
 ]
 
 
