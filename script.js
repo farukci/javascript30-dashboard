@@ -52,8 +52,8 @@ const JS30Data = [
     },
     {
         id: 7,
-        title: "Type Ahead",
-        imgURL: "./images/type-ahead.png",
+        title: "Fun With HTML5 Canvas",
+        imgURL: "./images/html5-canvas.png",
         repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
         liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
     },
