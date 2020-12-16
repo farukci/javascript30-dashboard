@@ -54,22 +54,22 @@ const JS30Data = [
         id: 7,
         title: "Fun With HTML5 Canvas",
         imgURL: "./images/html5-canvas.png",
-        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
-        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+        repoURL: "https://github.com/frcihan/JS30-08-Fun-With-HTML5-Canvas",
+        liveURL: "https://frcihan.github.io/JS30-08-Fun-With-HTML5-Canvas/"
     },
     {
         id: 8,
-        title: "Type Ahead",
+        title: "Dev Tools Domination",
         imgURL: "./images/type-ahead.png",
-        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
-        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+        repoURL: "https://github.com/frcihan/JS30-09-Dev-Tools-Domination",
+        liveURL: "https://frcihan.github.io/JS30-09-Dev-Tools-Domination/"
     },
     {
         id: 9,
-        title: "Type Ahead",
+        title: "Hold Shift and Check Checkboxes",
         imgURL: "./images/type-ahead.png",
-        repoURL: "https://github.com/frcihan/JS30-06-Type-Ahead",
-        liveURL: "https://frcihan.github.io/JS30-06-Type-Ahead/"
+        repoURL: "https://github.com/frcihan/JS30-10-Hold-Shift-Check-Checkboxes",
+        liveURL: "https://frcihan.github.io/JS30-10-Hold-Shift-Check-Checkboxes/"
     },
 ]
 
