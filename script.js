@@ -66,7 +66,7 @@ const JS30Data = [
     },
     {
         id: 9,
-        title: "Hold Shift and Check Checkboxes",
+        title: "Shift and Checkboxes",
         imgURL: "./images/type-ahead.png",
         repoURL: "https://github.com/frcihan/JS30-10-Hold-Shift-Check-Checkboxes",
         liveURL: "https://frcihan.github.io/JS30-10-Hold-Shift-Check-Checkboxes/"
