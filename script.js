@@ -71,6 +71,20 @@ const JS30Data = [
     //     repoURL: "https://github.com/frcihan/JS30-10-Hold-Shift-Check-Checkboxes",
     //     liveURL: "https://frcihan.github.io/JS30-10-Hold-Shift-Check-Checkboxes/"
     // },
+    // {
+    //     id: 10,
+    //     title: "Shift and Checkboxes",
+    //     imgURL: "./images/type-ahead.png",
+    //     repoURL: "https://github.com/frcihan/JS30-10-Hold-Shift-Check-Checkboxes",
+    //     liveURL: "https://frcihan.github.io/JS30-10-Hold-Shift-Check-Checkboxes/"
+    // },
+    // {
+    //     id: 11,
+    //     title: "Key Sequence Detection",
+    //     imgURL: "./images/type-ahead.png",
+    //     repoURL: "https://github.com/frcihan/JS30-10-Hold-Shift-Check-Checkboxes",
+    //     liveURL: "https://frcihan.github.io/JS30-10-Hold-Shift-Check-Checkboxes/"
+    // },
 ]
 
 
